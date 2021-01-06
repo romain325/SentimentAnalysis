@@ -1,0 +1,5 @@
+you need to put in this folder the following files to use the twitter api:
+    - access.token
+    - accesssecret.token
+    - api.key
+    - apikey.secret
